@@ -1,7 +1,5 @@
 
 package ejercicios;
-
-import static ejercicios.SetDeTenis.evaluar;
 import java.util.Scanner;
 
 /**
@@ -27,7 +25,7 @@ public class AnnosBisiestos {
 
         }
 
-        return "";
+        return respuesta;
     }
     
     public static void main(String[] args) {

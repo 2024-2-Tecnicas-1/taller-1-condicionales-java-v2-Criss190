@@ -1,6 +1,5 @@
 package ejercicios;
 
-import static ejercicios.SetDeTenis.evaluar;
 import java.util.Scanner;
 import java.util.Arrays;
 
